@@ -8,5 +8,5 @@ Toast 사용(피클)
 <br><img src="https://github.com/qhdl301/android_161125pizza/blob/master/app/fixel/Screenshot_1480087515.png?raw=true" width="200"></br>
 체크 박스 적용
 <br><img src="https://github.com/qhdl301/android_161125pizza/blob/master/app/fixel/Screenshot_1480087535.png?raw=true" width="200"></br>
-Toast 사용()
+Toast 사용(소스)
 <br><img src="https://github.com/qhdl301/android_161125pizza/blob/master/app/fixel/Screenshot_1480087543.png?raw=true" width="200"></br>
